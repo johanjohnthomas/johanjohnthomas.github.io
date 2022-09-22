@@ -1,2 +1,3 @@
 name: Johans Website
 markdown: kramdown 
+permalink: /blog/:year/:month/:day/:title 
